@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NGOs Website<br>🤝 I’m looking for help with backend developing and data engineering<br>🌱 I’m currently learning backend developing<br>⚡ Fun fact, I tend to over-engineer everything
+🔭 I’m currently working on NGOs Website and Self-Develop Money Tracker Webapp<br>🤝 I’m looking for help with backend developing and data engineering<br>🌱 I’m currently learning backend developing<br>⚡ Fun fact, I tend to over-engineer everything
 
 
 ## 🌐 Socials:
